@@ -1,10 +1,10 @@
-package com.example.ctbmarket;
+package com.example.ctdmarket;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CtbmarketApplicationTests {
+class CtdmarketApplicationTests {
 
 	@Test
 	void contextLoads() {
